@@ -26,3 +26,12 @@
 
 Termin wykonania zadania: 31.03.2026
 
+### Dlaczego nasz system powinien być lepszy?
+#### Lepszy niż AverageMovieRating
+Bo nie zwraca tej samej wartości dla wszystkich użytkowników — uwzględnia osobisty profil ocen użytkownika i jego preferencje gatunkowe.
+#### Lepszy niż AverageUserRating
+Bo nie ignoruje jakości / popularności konkretnego filmu.
+#### Lepszy niż GlobalAverageMovieRating
+Bo używa informacji specyficznej zarówno dla filmu, jak i użytkownika.
+#### Lepszy niż NaiveRating
+To oczywiste — nie zwraca stałej 2.5.
